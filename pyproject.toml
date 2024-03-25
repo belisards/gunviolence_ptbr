@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "crossfire"
+version = "0.1.0"
+description = ""
+authors = [""]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+pandas = "^2.0.3"
+openpyxl = "^3.1.2"
+plotly = "^5.15.0"
+nbformat = ">=4.2.0"
+kaleido = "0.2.1"
+statsmodels = "^0.14.0"
+matplotlib = "^3.7.2"
+stargazer = "^0.0.6"
+pyairtable = "^1.5.0"
+emoji = "^2.7.0"
+tweetpy = "^1.0.4"
+fuzzywuzzy = "^0.18.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

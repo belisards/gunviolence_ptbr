@@ -1,0 +1,553 @@
+Date,State,total
+2023-01-01,Bahia,12
+2023-01-01,Rio de Janeiro,74
+2023-01-01,Pernambuco,0
+2023-01-02,Bahia,4
+2023-01-02,Rio de Janeiro,15
+2023-01-02,Pernambuco,0
+2023-01-03,Bahia,1
+2023-01-03,Rio de Janeiro,13
+2023-01-03,Pernambuco,0
+2023-01-04,Bahia,5
+2023-01-04,Rio de Janeiro,7
+2023-01-04,Pernambuco,0
+2023-01-05,Bahia,9
+2023-01-05,Rio de Janeiro,12
+2023-01-05,Pernambuco,0
+2023-01-06,Bahia,0
+2023-01-06,Rio de Janeiro,20
+2023-01-06,Pernambuco,0
+2023-01-07,Bahia,2
+2023-01-07,Rio de Janeiro,10
+2023-01-07,Pernambuco,0
+2023-01-08,Bahia,0
+2023-01-08,Rio de Janeiro,17
+2023-01-08,Pernambuco,0
+2023-01-09,Bahia,0
+2023-01-09,Rio de Janeiro,15
+2023-01-09,Pernambuco,1
+2023-01-10,Bahia,2
+2023-01-10,Rio de Janeiro,5
+2023-01-10,Pernambuco,0
+2023-01-11,Bahia,1
+2023-01-11,Rio de Janeiro,39
+2023-01-11,Pernambuco,0
+2023-01-12,Bahia,2
+2023-01-12,Rio de Janeiro,16
+2023-01-12,Pernambuco,0
+2023-01-13,Bahia,2
+2023-01-13,Rio de Janeiro,20
+2023-01-13,Pernambuco,0
+2023-01-14,Bahia,4
+2023-01-14,Rio de Janeiro,13
+2023-01-14,Pernambuco,0
+2023-01-15,Bahia,4
+2023-01-15,Rio de Janeiro,9
+2023-01-15,Pernambuco,0
+2023-01-16,Bahia,5
+2023-01-16,Rio de Janeiro,14
+2023-01-16,Pernambuco,0
+2023-01-17,Bahia,2
+2023-01-17,Rio de Janeiro,13
+2023-01-17,Pernambuco,0
+2023-01-18,Bahia,0
+2023-01-18,Rio de Janeiro,6
+2023-01-18,Pernambuco,0
+2023-01-19,Bahia,3
+2023-01-19,Rio de Janeiro,22
+2023-01-19,Pernambuco,1
+2023-01-20,Bahia,8
+2023-01-20,Rio de Janeiro,21
+2023-01-20,Pernambuco,1
+2023-01-21,Bahia,0
+2023-01-21,Rio de Janeiro,12
+2023-01-21,Pernambuco,2
+2023-01-22,Bahia,10
+2023-01-22,Rio de Janeiro,8
+2023-01-22,Pernambuco,0
+2023-01-23,Bahia,5
+2023-01-23,Rio de Janeiro,30
+2023-01-23,Pernambuco,4
+2023-01-24,Bahia,3
+2023-01-24,Rio de Janeiro,53
+2023-01-24,Pernambuco,0
+2023-01-25,Bahia,6
+2023-01-25,Rio de Janeiro,20
+2023-01-25,Pernambuco,2
+2023-01-26,Bahia,3
+2023-01-26,Rio de Janeiro,15
+2023-01-26,Pernambuco,2
+2023-01-27,Bahia,6
+2023-01-27,Rio de Janeiro,34
+2023-01-27,Pernambuco,0
+2023-01-28,Bahia,5
+2023-01-28,Rio de Janeiro,14
+2023-01-28,Pernambuco,0
+2023-01-29,Bahia,2
+2023-01-29,Rio de Janeiro,17
+2023-01-29,Pernambuco,0
+2023-01-30,Bahia,9
+2023-01-30,Rio de Janeiro,11
+2023-01-30,Pernambuco,1
+2023-01-31,Bahia,4
+2023-01-31,Rio de Janeiro,38
+2023-01-31,Pernambuco,0
+2023-02-01,Bahia,1
+2023-02-01,Rio de Janeiro,17
+2023-02-01,Pernambuco,0
+2023-02-02,Bahia,8
+2023-02-02,Rio de Janeiro,22
+2023-02-02,Pernambuco,0
+2023-02-03,Bahia,5
+2023-02-03,Rio de Janeiro,14
+2023-02-03,Pernambuco,0
+2023-02-04,Bahia,2
+2023-02-04,Rio de Janeiro,36
+2023-02-04,Pernambuco,1
+2023-02-05,Bahia,5
+2023-02-05,Rio de Janeiro,26
+2023-02-05,Pernambuco,0
+2023-02-06,Bahia,6
+2023-02-06,Rio de Janeiro,27
+2023-02-06,Pernambuco,1
+2023-02-07,Bahia,2
+2023-02-07,Rio de Janeiro,9
+2023-02-07,Pernambuco,0
+2023-02-08,Bahia,6
+2023-02-08,Rio de Janeiro,11
+2023-02-08,Pernambuco,1
+2023-02-09,Bahia,7
+2023-02-09,Rio de Janeiro,25
+2023-02-09,Pernambuco,0
+2023-02-10,Bahia,1
+2023-02-10,Rio de Janeiro,13
+2023-02-10,Pernambuco,0
+2023-02-11,Bahia,11
+2023-02-11,Rio de Janeiro,2
+2023-02-11,Pernambuco,0
+2023-02-12,Bahia,3
+2023-02-12,Rio de Janeiro,12
+2023-02-12,Pernambuco,0
+2023-02-13,Bahia,6
+2023-02-13,Rio de Janeiro,16
+2023-02-13,Pernambuco,1
+2023-02-14,Bahia,3
+2023-02-14,Rio de Janeiro,20
+2023-02-14,Pernambuco,0
+2023-02-15,Bahia,3
+2023-02-15,Rio de Janeiro,25
+2023-02-15,Pernambuco,1
+2023-02-16,Bahia,0
+2023-02-16,Rio de Janeiro,23
+2023-02-16,Pernambuco,0
+2023-02-17,Bahia,2
+2023-02-17,Rio de Janeiro,5
+2023-02-17,Pernambuco,0
+2023-02-18,Bahia,16
+2023-02-18,Rio de Janeiro,7
+2023-02-18,Pernambuco,1
+2023-02-19,Bahia,0
+2023-02-19,Rio de Janeiro,4
+2023-02-19,Pernambuco,0
+2023-02-20,Bahia,1
+2023-02-20,Rio de Janeiro,6
+2023-02-20,Pernambuco,2
+2023-02-21,Bahia,6
+2023-02-21,Rio de Janeiro,11
+2023-02-21,Pernambuco,0
+2023-02-22,Bahia,6
+2023-02-22,Rio de Janeiro,9
+2023-02-22,Pernambuco,0
+2023-02-23,Bahia,13
+2023-02-23,Rio de Janeiro,11
+2023-02-23,Pernambuco,0
+2023-02-24,Bahia,3
+2023-02-24,Rio de Janeiro,9
+2023-02-24,Pernambuco,1
+2023-02-25,Bahia,5
+2023-02-25,Rio de Janeiro,12
+2023-02-25,Pernambuco,0
+2023-02-26,Bahia,6
+2023-02-26,Rio de Janeiro,5
+2023-02-26,Pernambuco,2
+2023-02-27,Bahia,4
+2023-02-27,Rio de Janeiro,23
+2023-02-27,Pernambuco,0
+2023-02-28,Bahia,2
+2023-02-28,Rio de Janeiro,14
+2023-02-28,Pernambuco,0
+2023-03-01,Bahia,7
+2023-03-01,Rio de Janeiro,27
+2023-03-01,Pernambuco,0
+2023-03-02,Bahia,4
+2023-03-02,Rio de Janeiro,17
+2023-03-02,Pernambuco,0
+2023-03-03,Bahia,5
+2023-03-03,Rio de Janeiro,16
+2023-03-03,Pernambuco,0
+2023-03-04,Bahia,3
+2023-03-04,Rio de Janeiro,7
+2023-03-04,Pernambuco,3
+2023-03-05,Bahia,5
+2023-03-05,Rio de Janeiro,26
+2023-03-05,Pernambuco,0
+2023-03-06,Bahia,1
+2023-03-06,Rio de Janeiro,23
+2023-03-06,Pernambuco,1
+2023-03-07,Bahia,2
+2023-03-07,Rio de Janeiro,25
+2023-03-07,Pernambuco,2
+2023-03-08,Bahia,4
+2023-03-08,Rio de Janeiro,49
+2023-03-08,Pernambuco,2
+2023-03-09,Bahia,0
+2023-03-09,Rio de Janeiro,20
+2023-03-09,Pernambuco,0
+2023-03-10,Bahia,15
+2023-03-10,Rio de Janeiro,17
+2023-03-10,Pernambuco,0
+2023-03-11,Bahia,2
+2023-03-11,Rio de Janeiro,16
+2023-03-11,Pernambuco,0
+2023-03-12,Bahia,6
+2023-03-12,Rio de Janeiro,39
+2023-03-12,Pernambuco,0
+2023-03-13,Bahia,7
+2023-03-13,Rio de Janeiro,16
+2023-03-13,Pernambuco,0
+2023-03-14,Bahia,14
+2023-03-14,Rio de Janeiro,13
+2023-03-14,Pernambuco,5
+2023-03-15,Bahia,12
+2023-03-15,Rio de Janeiro,19
+2023-03-15,Pernambuco,0
+2023-03-16,Bahia,24
+2023-03-16,Rio de Janeiro,21
+2023-03-16,Pernambuco,0
+2023-03-17,Bahia,16
+2023-03-17,Rio de Janeiro,17
+2023-03-17,Pernambuco,0
+2023-03-18,Bahia,1
+2023-03-18,Rio de Janeiro,16
+2023-03-18,Pernambuco,1
+2023-03-19,Bahia,5
+2023-03-19,Rio de Janeiro,35
+2023-03-19,Pernambuco,0
+2023-03-20,Bahia,13
+2023-03-20,Rio de Janeiro,19
+2023-03-20,Pernambuco,0
+2023-03-21,Bahia,2
+2023-03-21,Rio de Janeiro,33
+2023-03-21,Pernambuco,0
+2023-03-22,Bahia,2
+2023-03-22,Rio de Janeiro,26
+2023-03-22,Pernambuco,0
+2023-03-23,Bahia,2
+2023-03-23,Rio de Janeiro,38
+2023-03-23,Pernambuco,1
+2023-03-24,Bahia,3
+2023-03-24,Rio de Janeiro,26
+2023-03-24,Pernambuco,0
+2023-03-25,Bahia,6
+2023-03-25,Rio de Janeiro,12
+2023-03-25,Pernambuco,1
+2023-03-26,Bahia,6
+2023-03-26,Rio de Janeiro,12
+2023-03-26,Pernambuco,0
+2023-03-27,Bahia,4
+2023-03-27,Rio de Janeiro,10
+2023-03-27,Pernambuco,0
+2023-03-28,Bahia,1
+2023-03-28,Rio de Janeiro,28
+2023-03-28,Pernambuco,0
+2023-03-29,Bahia,12
+2023-03-29,Rio de Janeiro,10
+2023-03-29,Pernambuco,0
+2023-03-30,Bahia,4
+2023-03-30,Rio de Janeiro,19
+2023-03-30,Pernambuco,0
+2023-03-31,Bahia,10
+2023-03-31,Rio de Janeiro,32
+2023-03-31,Pernambuco,0
+2023-04-01,Bahia,0
+2023-04-01,Rio de Janeiro,19
+2023-04-01,Pernambuco,0
+2023-04-02,Bahia,1
+2023-04-02,Rio de Janeiro,19
+2023-04-02,Pernambuco,0
+2023-04-03,Bahia,5
+2023-04-03,Rio de Janeiro,29
+2023-04-03,Pernambuco,3
+2023-04-04,Bahia,10
+2023-04-04,Rio de Janeiro,40
+2023-04-04,Pernambuco,0
+2023-04-05,Bahia,3
+2023-04-05,Rio de Janeiro,12
+2023-04-05,Pernambuco,0
+2023-04-06,Bahia,17
+2023-04-06,Rio de Janeiro,11
+2023-04-06,Pernambuco,1
+2023-04-07,Bahia,12
+2023-04-07,Rio de Janeiro,19
+2023-04-07,Pernambuco,2
+2023-04-08,Bahia,13
+2023-04-08,Rio de Janeiro,3
+2023-04-08,Pernambuco,0
+2023-04-09,Bahia,9
+2023-04-09,Rio de Janeiro,1
+2023-04-09,Pernambuco,0
+2023-04-10,Bahia,21
+2023-04-10,Rio de Janeiro,20
+2023-04-10,Pernambuco,1
+2023-04-11,Bahia,1
+2023-04-11,Rio de Janeiro,17
+2023-04-11,Pernambuco,0
+2023-04-12,Bahia,11
+2023-04-12,Rio de Janeiro,32
+2023-04-12,Pernambuco,0
+2023-04-13,Bahia,17
+2023-04-13,Rio de Janeiro,21
+2023-04-13,Pernambuco,2
+2023-04-14,Bahia,9
+2023-04-14,Rio de Janeiro,17
+2023-04-14,Pernambuco,3
+2023-04-15,Bahia,11
+2023-04-15,Rio de Janeiro,19
+2023-04-15,Pernambuco,0
+2023-04-16,Bahia,20
+2023-04-16,Rio de Janeiro,10
+2023-04-16,Pernambuco,0
+2023-04-17,Bahia,9
+2023-04-17,Rio de Janeiro,15
+2023-04-17,Pernambuco,0
+2023-04-18,Bahia,6
+2023-04-18,Rio de Janeiro,10
+2023-04-18,Pernambuco,0
+2023-04-19,Bahia,4
+2023-04-19,Rio de Janeiro,5
+2023-04-19,Pernambuco,0
+2023-04-20,Bahia,9
+2023-04-20,Rio de Janeiro,7
+2023-04-20,Pernambuco,1
+2023-04-21,Bahia,19
+2023-04-21,Rio de Janeiro,7
+2023-04-21,Pernambuco,0
+2023-04-22,Bahia,3
+2023-04-22,Rio de Janeiro,23
+2023-04-22,Pernambuco,1
+2023-04-23,Bahia,9
+2023-04-23,Rio de Janeiro,10
+2023-04-23,Pernambuco,0
+2023-04-24,Bahia,8
+2023-04-24,Rio de Janeiro,11
+2023-04-24,Pernambuco,0
+2023-04-25,Bahia,20
+2023-04-25,Rio de Janeiro,14
+2023-04-25,Pernambuco,0
+2023-04-26,Bahia,6
+2023-04-26,Rio de Janeiro,9
+2023-04-26,Pernambuco,1
+2023-04-27,Bahia,15
+2023-04-27,Rio de Janeiro,12
+2023-04-27,Pernambuco,0
+2023-04-28,Bahia,6
+2023-04-28,Rio de Janeiro,3
+2023-04-28,Pernambuco,0
+2023-04-29,Bahia,7
+2023-04-29,Rio de Janeiro,6
+2023-04-29,Pernambuco,0
+2023-04-30,Bahia,6
+2023-04-30,Rio de Janeiro,18
+2023-04-30,Pernambuco,0
+2023-05-01,Bahia,9
+2023-05-01,Rio de Janeiro,15
+2023-05-01,Pernambuco,0
+2023-05-02,Bahia,6
+2023-05-02,Rio de Janeiro,9
+2023-05-02,Pernambuco,2
+2023-05-03,Bahia,7
+2023-05-03,Rio de Janeiro,10
+2023-05-03,Pernambuco,0
+2023-05-04,Bahia,8
+2023-05-04,Rio de Janeiro,22
+2023-05-04,Pernambuco,2
+2023-05-05,Bahia,18
+2023-05-05,Rio de Janeiro,7
+2023-05-05,Pernambuco,0
+2023-05-06,Bahia,7
+2023-05-06,Rio de Janeiro,16
+2023-05-06,Pernambuco,0
+2023-05-07,Bahia,13
+2023-05-07,Rio de Janeiro,11
+2023-05-07,Pernambuco,0
+2023-05-08,Bahia,9
+2023-05-08,Rio de Janeiro,11
+2023-05-08,Pernambuco,0
+2023-05-09,Bahia,13
+2023-05-09,Rio de Janeiro,25
+2023-05-09,Pernambuco,0
+2023-05-10,Bahia,6
+2023-05-10,Rio de Janeiro,13
+2023-05-10,Pernambuco,0
+2023-05-11,Bahia,12
+2023-05-11,Rio de Janeiro,18
+2023-05-11,Pernambuco,1
+2023-05-12,Bahia,2
+2023-05-12,Rio de Janeiro,17
+2023-05-12,Pernambuco,0
+2023-05-13,Bahia,4
+2023-05-13,Rio de Janeiro,18
+2023-05-13,Pernambuco,0
+2023-05-14,Bahia,6
+2023-05-14,Rio de Janeiro,21
+2023-05-14,Pernambuco,0
+2023-05-15,Bahia,9
+2023-05-15,Rio de Janeiro,6
+2023-05-15,Pernambuco,1
+2023-05-16,Bahia,7
+2023-05-16,Rio de Janeiro,40
+2023-05-16,Pernambuco,0
+2023-05-17,Bahia,9
+2023-05-17,Rio de Janeiro,15
+2023-05-17,Pernambuco,1
+2023-05-18,Bahia,4
+2023-05-18,Rio de Janeiro,4
+2023-05-18,Pernambuco,1
+2023-05-19,Bahia,6
+2023-05-19,Rio de Janeiro,13
+2023-05-19,Pernambuco,0
+2023-05-20,Bahia,12
+2023-05-20,Rio de Janeiro,15
+2023-05-20,Pernambuco,0
+2023-05-21,Bahia,15
+2023-05-21,Rio de Janeiro,20
+2023-05-21,Pernambuco,0
+2023-05-22,Bahia,8
+2023-05-22,Rio de Janeiro,10
+2023-05-22,Pernambuco,0
+2023-05-23,Bahia,9
+2023-05-23,Rio de Janeiro,55
+2023-05-23,Pernambuco,0
+2023-05-24,Bahia,4
+2023-05-24,Rio de Janeiro,19
+2023-05-24,Pernambuco,0
+2023-05-25,Bahia,2
+2023-05-25,Rio de Janeiro,25
+2023-05-25,Pernambuco,0
+2023-05-26,Bahia,15
+2023-05-26,Rio de Janeiro,9
+2023-05-26,Pernambuco,0
+2023-05-27,Bahia,8
+2023-05-27,Rio de Janeiro,27
+2023-05-27,Pernambuco,0
+2023-05-28,Bahia,0
+2023-05-28,Rio de Janeiro,19
+2023-05-28,Pernambuco,0
+2023-05-29,Bahia,6
+2023-05-29,Rio de Janeiro,31
+2023-05-29,Pernambuco,2
+2023-05-30,Bahia,10
+2023-05-30,Rio de Janeiro,27
+2023-05-30,Pernambuco,0
+2023-05-31,Bahia,5
+2023-05-31,Rio de Janeiro,23
+2023-05-31,Pernambuco,0
+2023-06-01,Bahia,1
+2023-06-01,Rio de Janeiro,27
+2023-06-01,Pernambuco,0
+2023-06-02,Bahia,5
+2023-06-02,Rio de Janeiro,40
+2023-06-02,Pernambuco,0
+2023-06-03,Bahia,10
+2023-06-03,Rio de Janeiro,19
+2023-06-03,Pernambuco,0
+2023-06-04,Bahia,5
+2023-06-04,Rio de Janeiro,14
+2023-06-04,Pernambuco,0
+2023-06-05,Bahia,2
+2023-06-05,Rio de Janeiro,11
+2023-06-05,Pernambuco,0
+2023-06-06,Bahia,7
+2023-06-06,Rio de Janeiro,23
+2023-06-06,Pernambuco,0
+2023-06-07,Bahia,2
+2023-06-07,Rio de Janeiro,28
+2023-06-07,Pernambuco,0
+2023-06-08,Bahia,5
+2023-06-08,Rio de Janeiro,18
+2023-06-08,Pernambuco,0
+2023-06-09,Bahia,6
+2023-06-09,Rio de Janeiro,20
+2023-06-09,Pernambuco,0
+2023-06-10,Bahia,8
+2023-06-10,Rio de Janeiro,24
+2023-06-10,Pernambuco,0
+2023-06-11,Bahia,4
+2023-06-11,Rio de Janeiro,7
+2023-06-11,Pernambuco,0
+2023-06-12,Bahia,13
+2023-06-12,Rio de Janeiro,18
+2023-06-12,Pernambuco,0
+2023-06-13,Bahia,10
+2023-06-13,Rio de Janeiro,16
+2023-06-13,Pernambuco,0
+2023-06-14,Bahia,5
+2023-06-14,Rio de Janeiro,52
+2023-06-14,Pernambuco,0
+2023-06-15,Bahia,6
+2023-06-15,Rio de Janeiro,73
+2023-06-15,Pernambuco,0
+2023-06-16,Bahia,19
+2023-06-16,Rio de Janeiro,76
+2023-06-16,Pernambuco,0
+2023-06-17,Bahia,0
+2023-06-17,Rio de Janeiro,32
+2023-06-17,Pernambuco,0
+2023-06-18,Bahia,5
+2023-06-18,Rio de Janeiro,34
+2023-06-18,Pernambuco,0
+2023-06-19,Bahia,4
+2023-06-19,Rio de Janeiro,53
+2023-06-19,Pernambuco,0
+2023-06-20,Bahia,2
+2023-06-20,Rio de Janeiro,22
+2023-06-20,Pernambuco,0
+2023-06-21,Bahia,1
+2023-06-21,Rio de Janeiro,15
+2023-06-21,Pernambuco,0
+2023-06-22,Bahia,3
+2023-06-22,Rio de Janeiro,24
+2023-06-22,Pernambuco,0
+2023-06-23,Bahia,0
+2023-06-23,Rio de Janeiro,31
+2023-06-23,Pernambuco,0
+2023-06-24,Bahia,0
+2023-06-24,Rio de Janeiro,20
+2023-06-24,Pernambuco,0
+2023-06-25,Bahia,7
+2023-06-25,Rio de Janeiro,16
+2023-06-25,Pernambuco,0
+2023-06-26,Bahia,5
+2023-06-26,Rio de Janeiro,18
+2023-06-26,Pernambuco,0
+2023-06-27,Bahia,2
+2023-06-27,Rio de Janeiro,40
+2023-06-27,Pernambuco,0
+2023-06-28,Bahia,1
+2023-06-28,Rio de Janeiro,33
+2023-06-28,Pernambuco,0
+2023-06-29,Bahia,1
+2023-06-29,Rio de Janeiro,33
+2023-06-29,Pernambuco,0
+2023-06-30,Bahia,7
+2023-06-30,Rio de Janeiro,41
+2023-06-30,Pernambuco,0
+2023-07-01,Bahia,4
+2023-07-01,Rio de Janeiro,12
+2023-07-01,Pernambuco,0
+2023-07-02,Bahia,0
+2023-07-02,Rio de Janeiro,10
+2023-07-02,Pernambuco,0
+2023-07-03,Bahia,0
+2023-07-03,Rio de Janeiro,2
+2023-07-03,Pernambuco,0
